@@ -1,0 +1,12 @@
+img{
+	width: 200px;
+	position: relative;
+	bottom: -40px;
+}
+#bg-image{
+	background-image: url(../peopleBench.jpg);
+}
+#overlay{
+	background-color: #3674bd;
+	opacity: 0.8;	
+}
