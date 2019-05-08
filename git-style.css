@@ -5,9 +5,9 @@
 
 .overlay{
 	background-color: rgb(36, 149, 201, 0.6);
-	/*padding-right: 10%;
-	padding-left: 10%;*/
-	
+	padding-right: 10%;
+	padding-left: 10%;
+	height: 800px;
 }
 
 .box{
