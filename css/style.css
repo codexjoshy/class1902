@@ -1,0 +1,57 @@
+body{
+	/*overflow: hidden;*/
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Bitter', serif;
+	width: 100%;
+}
+
+section{
+	/*width: 10%;*/
+	overflow: hidden;
+}
+.images{
+	background-image: url(images/cv11.jpg);
+	/*height: 600px;*/
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.overlay{
+	background-color: rgba(77, 81, 214, 0.6);
+	/*height: 600px;  */
+
+}
+
+.navbar-brand{
+	font-size: 30px !important;
+}
+
+.text{
+	padding-top: 150px;
+	/*padding-bottom: 150px;*/
+}
+
+#card{
+	font-size: 11px;
+	box-sizing: border-box;
+	margin-left: auto;
+	/*float: right;*/
+}
+
+#card h1{
+	color: black !important;
+}
+
+.float-rt{
+	margin-left: 150px;
+	margin-bottom: 50px;
+}
+
+.video{
+	font-size: 40px;
+}
+
+.video span{
+	font-size: 20px;
+}
